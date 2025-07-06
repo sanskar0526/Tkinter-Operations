@@ -17,6 +17,7 @@ A basic Tkinter-based GUI form that collects user details like name, contact, ge
 ⸻
 
 🛠 Technical Skills
+
 	•	Languages: Python
 	•	Frameworks/Libraries: Tkinter, Math, OS
 	•	Tools: Git, GitHub
