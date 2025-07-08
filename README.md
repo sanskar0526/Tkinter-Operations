@@ -16,6 +16,16 @@ A basic Tkinter-based GUI form that collects user details like name, contact, ge
 
 ⸻
 
+🌦️ Weather App
+
+A simple Python weather app that shows current temperature, humidity, and weather condition using the OpenWeatherMap API.
+Features:-
+- Real-time weather data
+- Tkinter GUI
+- Error handling for invalid city names
+
+⸻
+
 🛠 Technical Skills
 
 	•	Languages: Python
